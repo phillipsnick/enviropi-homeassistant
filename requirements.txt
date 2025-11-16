@@ -1,0 +1,7 @@
+paho-mqtt>=1.6,<2
+enviroplus>=0.0.7
+gpiozero>=2.0
+spidev>=3.6
+RPi.GPIO>=0.7
+Pillow>=9.0
+st7735>=0.0.4
